@@ -1,5 +1,5 @@
 # EX No.5.2.DESIGN THE 3D MODEL AS PROVIDED AND CONVERT TO ORTHOGRAPHIC VIEW
-## DATE:
+## DATE:18/5/25
 
 ## AIM: 
 To create orthographic view of given 3D model
@@ -26,6 +26,7 @@ Select sketch option and choose create sketch
  Use the extrude option to convert the 2D to 3D.
 
 ### STEP-5:
+
 Switch to drawing mode from design mode 
           
 ### STEP-6:
@@ -35,8 +36,9 @@ Switch to drawing mode from design mode
 ## INPUT
 ![image](https://user-images.githubusercontent.com/113594316/199412055-fa1f658d-65f4-42c2-9c3c-78c93512e905.png)
 
-## OUTPUT
+## OUTPUT4
 
+[EXP 5.2.pdf](https://github.com/user-attachments/files/20273879/EXP.5.2.pdf.pdf)
 
 ## RESULT:
 Thus, the given 3D model is converted into orthographic view.
